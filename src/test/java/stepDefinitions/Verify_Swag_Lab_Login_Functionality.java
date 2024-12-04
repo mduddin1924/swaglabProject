@@ -57,6 +57,7 @@ public class Verify_Swag_Lab_Login_Functionality extends Base {
         Thread.sleep(1000);
 
         click(LandingPage.loginButton); // Page Object
+        System.out.println("Sharif");
 
 
         // click(By.id("login-button"));  // login button by method
